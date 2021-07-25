@@ -1,6 +1,7 @@
 # Gianpiertolda
 ## Il bot Telegram più marso di tutti!
 GianpiertoldaBot è un bot completo, modulare e veloce per i tuoi gruppi!
+<br>
 Non ti va di leggere queste cazzate copiate e incollate dal sito di ordissimo? **Passa subito alla <a href="https://github.com/stockdroidfans/Gianpiertolda/blob/main/README.md#inizializzare-il-nonny">Guida di utilizzo</a>.**
 
 ### SIMPLISSIME !
